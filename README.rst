@@ -7,3 +7,5 @@ with some basic Sphinx docs.
 Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
+
+https://readthedocs.org/dashboard/dsml4s8e-docs
