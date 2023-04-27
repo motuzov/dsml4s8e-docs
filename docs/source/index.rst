@@ -1,11 +1,18 @@
-Welcome to Dsml4s8e's documentation!
+Welcome to DSML4s8e's documentation!
 ===================================
 
-The library name is a abbreviation of **D**ata **S**cience / **ML** flow(**4**) **s**tandalon(**8**)**e**.
+The library name is a abbreviation of Data Science / ML flow standalone.
+(Data Science / ML) -> **DSML**
++
+flow -> ****(4) -> **4**
++
+standalone -> s********e -> **s8e**
+=
+**DSML4s8e**
 
 Dsml4s8e is a Python library that extends Dagster to help manage the ML workflow around Jupyter notebooks development.
 
-**Dsml4s8e** addresses issues: 
+**DSML4s8e** addresses issues: 
 
  1. Building of pipelines from **standalone** notebooks
  2. Standardizing a structure of ML/DS pipeline projects to easy share and continuous improve them
